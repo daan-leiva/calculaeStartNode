@@ -1,0 +1,6 @@
+c:\users\researchbeast\documents\visual studio 2015\Projects\AI_2_Final\AI_2_Final\bin\Debug\AI_2_Final.exe.config
+c:\users\researchbeast\documents\visual studio 2015\Projects\AI_2_Final\AI_2_Final\bin\Debug\AI_2_Final.exe
+c:\users\researchbeast\documents\visual studio 2015\Projects\AI_2_Final\AI_2_Final\bin\Debug\AI_2_Final.pdb
+c:\users\researchbeast\documents\visual studio 2015\Projects\AI_2_Final\AI_2_Final\obj\Debug\AI_2_Final.csprojResolveAssemblyReference.cache
+c:\users\researchbeast\documents\visual studio 2015\Projects\AI_2_Final\AI_2_Final\obj\Debug\AI_2_Final.exe
+c:\users\researchbeast\documents\visual studio 2015\Projects\AI_2_Final\AI_2_Final\obj\Debug\AI_2_Final.pdb
